@@ -1,0 +1,105 @@
+body {
+  background: lightgrey;
+}
+#dropdown {
+  position: relative;
+  left: 40%;
+  /*color:#b3b3ff;*/
+}
+#UPANDAWAY {
+  position: relative;
+  left: 42%;
+  font-weight: bold;
+}
+#AROUND-THE-WORLDADVENTURE {
+  position: relative;
+  left: 30%;
+  font-weight: lighter;
+}
+#stpara {
+  position: relative;
+  left: 20%;
+  color: gray;
+}
+#IRELAND {
+  position: relative;
+  left: 45%;
+  color: teal;
+  font-family: Arial;
+}
+#ATYOURSERVICE {
+  position: relative;
+  left: 20%;
+}
+#EMJ1 {
+  position: relative;
+  left: 15%;
+  color: olive;
+}
+#EMJ2 {
+  position: relative;
+  left: 0%;
+  color: olive;
+}
+#EMJ3 {
+  position: relative;
+  left: 0%;
+  color: olive;
+}
+#EMJ4 {
+  position: relative;
+  left: 0%;
+  right: 70%;
+  color: olive;
+}
+#SEYCHELLES {
+  position: relative;
+  left: 45%;
+  font-family: Arial;
+  color: silver;
+}
+#sey {
+  position: relative;
+  left: 0%;
+  color: #2b334d;
+}
+#FRENCHPOLYNESIA {
+  position: relative;
+  left: 45%;
+  font-family: Arial;
+  color: purple;
+}
+#frenchpoly {
+  position: relative;
+  left: 0%;
+  color: navy;
+}
+
+img {
+  border: 3px solid #000000;
+  position: relative;
+  left: 15%;
+}
+h4 {
+  text-decoration: none;
+}
+h4:hover {
+  text-decoration: underline;
+}
+h5:hover {
+  text-decoration: underline;
+  font-family: sans-serif;
+}
+#social-fb {
+  color: black;
+}
+#social-in {
+  color: black;
+}
+#social-tw {
+  color: black;
+}
+.btn-outline-info {
+  color: #222323;
+  border-color: #353535;
+}
